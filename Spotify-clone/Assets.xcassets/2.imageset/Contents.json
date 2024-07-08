@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "eminem_themarshallmatherslp_a0ib 1.19.19 PM.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
